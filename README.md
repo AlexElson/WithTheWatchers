@@ -12,8 +12,8 @@ Advance through dozens of chapters led by a captivating story. Multiple, incredi
 
 
 Gameplay
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1JD_76n0YgQ" frameborder="0" allowfullscreen></iframe>
+https://www.youtube.com/embed/1JD_76n0YgQ
 
 Music
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPAKFlqrlRI" frameborder="0" allowfullscreen></iframe>
+https://www.youtube.com/embed/vPAKFlqrlRI
 
